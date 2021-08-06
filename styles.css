@@ -1,0 +1,61 @@
+html {
+    scroll-behavior: smooth;
+}
+
+li  {
+    display: inline-block;
+}
+
+.nav-div a{
+    margin: 30px 20px 60px 40px;
+    background: green;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 25px;
+    font-size: 1.3rem;
+}
+
+.nav-div {
+    margin: 40px auto;
+    width: 70%;
+}
+
+nav {
+    background: rgb(9, 240, 228);
+    padding: 20px;
+}
+
+#about {
+    background: yellow;
+    padding: 10px 100px;
+}
+
+#about img {
+    display: block;
+    border-radius: 25px;
+}
+
+#about a {
+    display: inline-block;
+    margin: 20px 0px;
+    padding: 15px;
+    background: black;
+    color: white;
+    border-radius: 25px;
+    font-size: 1.3rem;
+    text-decoration: none;
+}
+
+#education {
+    background: rgb(9, 240, 228);
+    padding: 20px;
+    text-align: center;
+}
+
+#education div {
+    border: 5px solid;
+    width: 30%;
+    margin: 20px auto;
+    font-size: 1.3rem;
+}
